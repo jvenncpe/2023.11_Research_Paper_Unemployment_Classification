@@ -285,13 +285,15 @@ The coefficients presented above hold valuable information about the likelihood 
 For example, a positive coefficient indicates that an increase in the corresponding feature will raise the likelihood of the event happening, while a negative coefficient suggests that an increase in the feature will lower the likelihood. The magnitude of the coefficient also matters; a larger coefficient signifies a stronger influence on the outcome.
 
 
-## What we Discovered
+## What we Discovered ...
 
 <p align="center">
 <img src="https://github.com/jvenncpe/2023.11_Research_Paper_Unemployment_Classification/assets/35190918/a8f78e49-f6e0-4328-9194-d7d653350e77"/></p>
 
-### FULL RESEARCH PAPER OUTPUT CAN BE CHECKED AT THE REPOSITORY: 
-### *_"[2.0 SPCapstone002_JDColaste (Presentation Paper)](https://drive.google.com/file/d/16Y7QJVHbvTHTK7skXG6nLJNi_ohwsY3C/view?usp=sharing)"_ && _"[3.0 SPCapstone002_JDColaste (Presentation Deck)](https://drive.google.com/file/d/16SjmWOwBjW2Ju-ZTiBa2O278qzXC7SWt/view?usp=sharing)"_*
+### FULL RESEARCH PAPER OUTPUT CAN BE CHECKED AT: 
+### • [2.0 SPCapstone002_JDColaste (Presentation Paper)](https://drive.google.com/file/d/16Y7QJVHbvTHTK7skXG6nLJNi_ohwsY3C/view?usp=sharing)
+
+### • [3.0 SPCapstone002_JDColaste (Presentation Deck)](https://drive.google.com/file/d/16SjmWOwBjW2Ju-ZTiBa2O278qzXC7SWt/view?usp=sharing)
 
 ---
 ---
