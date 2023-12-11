@@ -293,6 +293,9 @@ For example, a positive coefficient indicates that an increase in the correspond
 ### FULL RESEARCH PAPER OUTPUT CAN BE CHECKED AT THE REPOSITORY: 
 ### *_"2.0 SPCapstone002_JDColaste (Presentation Paper)"_ && _"3.0 SPCapstone002_JDColaste (Presentation Deck)"_*
 
+---
+---
+
 <p align="center">
 <img src="https://github.com/jvenncpe/Unlocking-Opportunities-Unemployment/assets/35190918/6f659acb-88d0-49b2-8bc5-c65b81bfde52"/></p>
 
