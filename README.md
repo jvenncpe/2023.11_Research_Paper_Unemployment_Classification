@@ -3,7 +3,7 @@
 
 # Research Paper: Unemployment Classification
 
-Capstone project output from "Data Scientist Capstone Course" acilitated by Project SPARTA from Development Academy of the Philippines. The course aims to empower learners on the Data Scientist pathway to apply their analytics skills to real-world problems. Learners select local issues, using Philippine data to propose solutions, refining data collection, analysis, modeling, and presentation abilities. 
+Capstone project output from "Data Scientist Capstone Course" facilitated by Project SPARTA from Development Academy of the Philippines. The course aims to empower learners on the Data Scientist pathway to apply their analytics skills to real-world problems. Learners select local issues, using Philippine data to propose solutions, refining data collection, analysis, modeling, and presentation abilities. 
 
 The course concludes with submissions detailing problem statements, objectives, analyses, results, conclusions, and recommendations, alongside detailed analysis materials. By the end, learners master problem conceptualization, data collection, analysis, interpretation, and decision-making insights.
 
